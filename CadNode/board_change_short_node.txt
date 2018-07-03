@@ -1,0 +1,16 @@
+!==============board_change_short_node====Start
+1D05V_PWR
+PWR_CHG_CE
+HDMI_DATA2_R_C
+HDMI_DATA2_R_C#
+HDMI_DATA1_R_C
+HDMI_DATA1_R_C#
+HDMI_DATA0_R_C
+HDMI_DATA0_R_C#
+HDMI_CLK_R_C#
+HDMI_CLK_R_C
+USB_PP5
+USB_PN5
+3D3V_AUX_KBC
+PWR_VCCSA_BST
+!==============board_change_short_node====End
